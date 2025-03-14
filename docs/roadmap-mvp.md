@@ -4,11 +4,11 @@
 > Tests détaillés dans `/tests/test_suite.lua`
 
 ## NOTES DE DÉVELOPPEMENT
-- Début projet: [DATE]
+- Début projet: 14/03/2025
 - MVP actuel: 1
 - Tâche actuelle: Structure initiale
 - Problèmes bloquants: aucun
-- Dernière mise à jour: [DATE]
+- Dernière mise à jour: 14/03/2025
 
 ## PRIORITÉS
 - Finaliser structure initiale
